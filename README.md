@@ -8,4 +8,4 @@ Passos a implementar:
 4. Implemente os testes unitários que julgar efetivo.
 5. Crie um git hub e compartilhe o link respondendo o ultimo e-mail.
 
-Obs: Voce é livre para implementar em outra linguagem desde que respeite as funcionalidades e saídas existentes, além de aplicar os conceitos solicitados.
+Obs: Voce é livre para implementar na linguagem de sua preferência desde que respeite as funcionalidades e saídas existentes, além de aplicar os conceitos solicitados.
