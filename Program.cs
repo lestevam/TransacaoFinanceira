@@ -2,14 +2,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-//Passos que devem ser implementados
-//1. Corrija o que for necessarios para resolver os erros de compilacao.
-//2. Execute o programa para avaliar a saida, identifique e corrija o motivo de algumas transacoes
-//     estarem sendo canceladas mesmo com saldo positivo e outras sem saldo sendo efetivadas.
-//3. Aplique o code review e refatore conforme as melhores praticas (SOLID,Patterns,etc).
-//4. Implemente os testes unitarios.
 
-//Obs: Voce é livre para implementar em outra linguagem desde que respeite as funcionalidades e saídas existentes, além de aplicar os conceitos solicitados.
+//Obs: Voce é livre para implementar na linguagem de sua preferência, desde que respeite as funcionalidades e saídas existentes, além de aplicar os conceitos solicitados.
 
 namespace TransacaoFinanceira
 {
